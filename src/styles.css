@@ -1,0 +1,98 @@
+body {
+  font-family: "Patrick Hand", cursive;
+  padding-top: 35px;
+  margin: 10px auto 0;
+  padding: 0;
+
+  max-width: 900px;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 15px;
+}
+h1 {
+  box-sizing: content-box;
+
+  font-size: 48px;
+  margin: 0 0;
+}
+h2 {
+  font-size: 45px;
+  text-shadow: 2px 5px 4px rgb(233, 136, 9);
+}
+.widget-container {
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+.container {
+  background: #e8ecd6;
+  border: 1px solid black;
+  border-radius: 20px;
+  max-width: 900px;
+}
+.fa-sun {
+  color: black;
+  text-shadow: 7px 5px 5px #ffb900;
+  border-color: black;
+  font-size: 55px;
+  margin-left: 10px;
+}
+.temperature {
+  font-size: 64px;
+}
+.degrees {
+  font-size: 30px;
+  position: relative;
+  top: -20px;
+  color: black;
+}
+.actual {
+  margin: 0 auto;
+  padding-top: 2px;
+}
+.actualDay {
+  margin: 0;
+  padding: 10px auto;
+}
+#actualWeekDay {
+  font-size: 21px;
+}
+.search-form {
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+.form-control {
+  border: 1px solid black;
+  font-size: 18px;
+  text-align: center;
+}
+
+.col-8 {
+  padding: 10px 10px;
+}
+
+ul {
+  padding: 0;
+}
+.day {
+  font-size: 23px;
+  margin: 0 auto;
+}
+li {
+  list-style: none;
+  font-size: 19px;
+}
+.fa-cloud-sun,
+.fa-cloud,
+.fa-cloud-showers-heavy {
+  color: #ffb900;
+  text-shadow: 12px 8px 18px black;
+  border-color: black;
+  font-size: 45px;
+  margin-left: 5px;
+}
+.footer {
+  margin-top: 5px;
+}
